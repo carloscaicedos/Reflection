@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Books>
+		<Book>
+			<ID>3426521078</ID>
+			<Title>PHP: The Good Parts</Title>
+			<SubTitle>Delivering the Best of PHP</SubTitle>
+			<Description>Get past all the hype about PHP and dig into the real power of the language. This book explores the most useful features of PHP and how they can speed up the web development process, and explains why the most commonly used PHP elements are often misu ...</Description>
+			<Image>http://s.it-ebooks-api.info/3/php_the_good_parts.jpg</Image>
+			<isbn>9780596804374</isbn>
+		</Book>
+		<Book>
+			<ID>427318464</ID>
+			<Title>Pro PHP Application Performance</Title>
+			<SubTitle>Tuning PHP Web Projects for Maximum Performance</SubTitle>
+			<Description>
+				This book contains tips, tricks, and techniques to make new and existing PHP applications much faster and less resource-hungry.
+				
+			Pro PHP Application Performance will help you understand all the technologies and components which play a role in how w ...</Description>
+			<Image>http://s.it-ebooks-api.info/6/pro_php_application_performance.jpg</Image>
+			<isbn>9781430228981</isbn>
+		</Book>
+		<Book>
+			<ID>1167030458</ID>
+			<Title>Node.js for PHP Developers</Title>
+			<SubTitle>Porting PHP to Node.js</SubTitle>
+			<Description>If you're an experienced PHP developer, you already have a head start on learning how to write Node.js code. In this book, author Daniel Howard demonstrates the remarkable similarities between the two languages, and shows you how to port your entire ...</Description>
+			<Image>http://s.it-ebooks-api.info/3/node.js_for_php_developers.jpg</Image>
+			<isbn>9781449333607</isbn>
+		</Book>
+		<Book>
+			<ID>1135257952</ID>
+			<Title>The PHP Anthology, Volume 1</Title>
+			<SubTitle>Object Oriented PHP Solutions</SubTitle>
+			<Description>
+				A compilation of best practice solutions to common Web Development problems in PHP, focusing on the achievement of practical goals by applying well-structured, object orientated software design principles.
+				
+			In addition to being an excellent referen ...</Description>
+			<Image>http://s.it-ebooks-api.info/7/the_php_anthology_volume_1.jpg</Image>
+			<isbn>9780957921856</isbn>
+		</Book>
+		<Book>
+			<ID>1965363337</ID>
+			<Title>The PHP Anthology, Volume 2</Title>
+			<SubTitle>Object Oriented PHP Solutions</SubTitle>
+			<Description>
+				A compilation of best practice solutions to common Web Development problems in PHP, focusing on the achievement of practical goals by applying well-structured, object orientated software design principles.
+				
+			Volume 2 covers the applications of PHP i ...</Description>
+			<Image>http://s.it-ebooks-api.info/7/the_php_anthology_volume_2.jpg</Image>
+			<isbn>9780957921849</isbn>
+		</Book>
+		<Book>
+			<ID>4171804729</ID>
+			<Title>CodeIgniter for Rapid PHP Application Development</Title>
+			<SubTitle>Improve your PHP coding productivity with the free compact open-source MVC CodeIgniter framework!</SubTitle>
+			<Description>CodeIgniter (CI) is a powerful open-source PHP framework with a very small footprint, built for PHP coders who need a simple and elegant toolkit to create full-featured web applications. CodeIgniter is an MVC framework, similar in some ways to the Ra ...</Description>
+			<Image>http://s.it-ebooks-api.info/14/codeigniter_for_rapid_php_application_development.jpg</Image>
+			<isbn>9781847191748</isbn>
+		</Book>
+		<Book>
+			<ID>590620357</ID>
+			<Title>PHP 5 E-commerce Development</Title>
+			<SubTitle>Create a flexible framework in PHP for a powerful e-commerce solution</SubTitle>
+			<Description>The popularity of online shopping has increased dramatically over the past few years. There are plenty of options available if you not are planning to build your own e-commerce solution but sometimes it's better to use your own solutions. It may be e ...</Description>
+			<Image>http://s.it-ebooks-api.info/14/php_5_e-commerce_development.jpg</Image>
+			<isbn>9781847199645</isbn>
+		</Book>
+		<Book>
+			<ID>3896293091</ID>
+			<Title>Instant Simple Botting with PHP</Title>
+			<SubTitle>Enhance your botting skills and create your own web bots with PHP</SubTitle>
+			<Description>Bots can be used effortlessly to execute projects and tasks that will save time and funds. Bots are powerful tools that should be in every knowledgeable programmer's toolbox. Developing and integrating bots into your programs may be easier than expec ...</Description>
+			<Image>http://s.it-ebooks-api.info/14/instant_simple_botting_with_php.jpg</Image>
+			<isbn>9781782169291</isbn>
+		</Book>
+		<Book>
+			<ID>3791959216</ID>
+			<Title>PHP Cookbook, 3rd Edition</Title>
+			<SubTitle>Solutions &amp; Examples for PHP Programmers</SubTitle>
+			<Description>Want to understand a certain PHP programming technique? Or learn how to accomplish a particular task? This cookbook is the first place to look. With more than 350 code-rich recipes revised for PHP 5.4 and 5.5, this third edition provides updated solu ...</Description>
+			<Image>http://s.it-ebooks-api.info/3/php_cookbook_3rd_edition.jpg</Image>
+			<isbn>9781449363758</isbn>
+		</Book>
+		<Book>
+			<ID>1204669200</ID>
+			<Title>PHP Web Scraping</Title>
+			<SubTitle>Get up and running with the basic techniques of web scraping using PHP</SubTitle>
+			<Description>With the proliferation of the web, there has never been a larger body of data freely available for common use. Harvesting and processing this data can be a time consuming task if done manually. However, web scraping can provide the tools and framewor ...</Description>
+			<Image>http://s.it-ebooks-api.info/14/php_web_scraping.jpg</Image>
+			<isbn>9781782164760</isbn>
+		</Book>
+	</Books>
+</root>
